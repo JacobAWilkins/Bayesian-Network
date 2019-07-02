@@ -1,3 +1,18 @@
+/*H****************************************************************
+* FILENAME :        bnet.java
+*
+* DESCRIPTION :
+*       Determines the probability of particular actions using a bayesian network 
+*
+* NOTES :
+*       The bayesian network is described in REAMDE.md
+*
+*       Copyright 2019, Jacob Wilkins.  All rights reserved.
+* 
+* AUTHOR :    Jacob Wilkins        START DATE :    27 Apr 19
+*
+*H*/
+
 import java.util.HashMap;
 import java.util.ArrayList;
 import java.text.DecimalFormat;
