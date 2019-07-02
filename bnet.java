@@ -5,7 +5,7 @@
 *       Determines the probability of particular actions using a bayesian network 
 *
 * NOTES :
-*       The bayesian network is described in REAMDE.md
+*       The bayesian network is described in bnet_graph.gif
 *
 *       Copyright 2019, Jacob Wilkins.  All rights reserved.
 * 
